@@ -1,1 +1,1 @@
-# satttviceats
+# Sattvic-Eats
